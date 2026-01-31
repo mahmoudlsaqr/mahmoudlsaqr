@@ -31,7 +31,7 @@
 <p align="center">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/PHP-4895ef?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-ff4d6d?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-c75146?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-8cb369?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-9a031e?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-30343f?style=for-the-badge&logo=git&logoColor=white" />
