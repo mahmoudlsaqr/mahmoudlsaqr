@@ -53,8 +53,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudsaqr&theme=react-dark&area=true" />
-</p>
+[  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudsaqr&theme=react-dark&area=true" />](https://github-readme-stats.vercel.app/api?username=mahmoudsaqr&show_icons=true&theme=radical&count_private=true)</p>
 
 <br>
 
