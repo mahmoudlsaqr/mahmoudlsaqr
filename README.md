@@ -104,15 +104,15 @@
 - API performance & security enhancements
 
 
+## ⚡ Motto
+
+> "Build systems that solve **real business problems**, not just code that works."
+
+
 ## 📫 Contact Me
 
 <p align="center">
   <img src="https://img.shields.io/badge/Email-m.sqr.info@gmail.com-red?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Saqr-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
-
-
-## ⚡ Motto
-
-> "Build systems that solve **real business problems**, not just code that works."
 
