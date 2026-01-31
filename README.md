@@ -40,7 +40,7 @@
 
 <br>
 
-## 🚀 My Projects
+**## 🚀 My Projects
 
 <p align="center">
 
@@ -82,7 +82,7 @@ Workflow approvals, audit tracking, internal communication<br/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-</p>
+</p>**
 
 <br>
 
