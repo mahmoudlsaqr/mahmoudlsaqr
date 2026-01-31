@@ -104,7 +104,7 @@
 - API performance & security enhancements
 
 
-## ⚡ Motto
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Motto
 
 > "Build systems that solve **real business problems**, not just code that works."
 
