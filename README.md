@@ -40,46 +40,48 @@
 
 <br>
 
-## 🚀 My Projects & Contributions
+## 🚀 My Projects
 
 <p align="center">
-  <!-- ZATCA E-Invoicing -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/ZATCA-E--Invoicing-blue?style=for-the-badge&logo=laravel&logoColor=white" alt="ZATCA Project" />
-  </a>
-  <!-- Clinics Management -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Clinics-Management-green?style=for-the-badge&logo=mysql&logoColor=white" alt="Clinics Project" />
-  </a>
-  <!-- Admin Communication -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Admin-Communication-orange?style=for-the-badge&logo=slack&logoColor=white" alt="Admin Project" />
-  </a>
+
+<!-- ZATCA Project Card -->
+<a href="https://github.com/mahmoudsaqr/zatca-invoicing" target="_blank">
+  <img src="https://raw.githubusercontent.com/mahmoudsaqr/screenshots/main/zatca-dashboard.png" alt="ZATCA E-Invoicing" width="250px" style="border-radius:15px;"/>
+</a><br/>
+<b>🧾 ZATCA E-Invoicing</b><br/>
+XML signing, secure API integration, Phase 1 & 2 compliance<br/>
+<img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+
 </p>
 
 <p align="center">
-  <table>
-    <tr>
-      <!-- ZATCA Card -->
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="150px" /><br/>
-        <b>🧾 ZATCA E-Invoicing</b><br/>
-        XML signing, secure API integration, Phase 1 & 2 compliance
-      </td>
-      <!-- Clinics Card -->
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="150px" /><br/>
-        <b>🏥 Clinics Management Platform</b><br/>
-        Appointment scheduling, RBAC, billing, scalable backend
-      </td>
-      <!-- Admin Card -->
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="150px" /><br/>
-        <b>🏢 Admin Communication System</b><br/>
-        Workflow approvals, audit tracking, internal communication
-      </td>
-    </tr>
-  </table>
+
+<!-- Clinics Management Card -->
+<a href="https://github.com/mahmoudsaqr/clinics-management" target="_blank">
+  <img src="https://raw.githubusercontent.com/mahmoudsaqr/screenshots/main/clinics-dashboard.png" alt="Clinics Management" width="250px" style="border-radius:15px;"/>
+</a><br/>
+<b>🏥 Clinics Management Platform</b><br/>
+Appointment scheduling, RBAC, billing, scalable backend<br/>
+<img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+
+</p>
+
+<p align="center">
+
+<!-- Admin Communication Card -->
+<a href="https://github.com/mahmoudsaqr/admin-communication" target="_blank">
+  <img src="https://raw.githubusercontent.com/mahmoudsaqr/screenshots/main/admin-dashboard.png" alt="Admin Communication System" width="250px" style="border-radius:15px;"/>
+</a><br/>
+<b>🏢 Administrative Communication System</b><br/>
+Workflow approvals, audit tracking, internal communication<br/>
+<img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
 </p>
 
 <br>
