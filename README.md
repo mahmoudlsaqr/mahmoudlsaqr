@@ -1,38 +1,40 @@
 <h1 align="center">👋 Hi, I'm Mahmoud Adel Saqr</h1>
-<h3 align="center">Full-Stack Developer | Laravel & Scalable APIs 🚀</h3>
+<h3 align="center">Backend PHP & Laravel Developer 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Laravel+Backend+Developer;API+Architecture+Specialist;ZATCA+Integration+Engineer;Building+Scalable+Systems;Performance+Optimization+Expert;Always+Learning+New+Tech&center=true&width=700&height=50">
 </p>
 
-## 🧑‍💻 About Me
+## <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="35" /> About Me
 
 <p align="center">
-I'm a Full-Stack Developer with expertise in <b>Laravel & scalable APIs</b> and strong frontend skills.<br>
-I blend <b>design sense</b> with <b>code mastery</b> to create elegant, high-performance web applications that solve real-world problems.
+  I'm a 'Full-Stack Developer' with expertise in Laravel & scalable APIs and strong frontend skills.  
+  <br>
+  I combine code mastery with design intuition, crafting high-performance, robust, and elegant applications from end-to-end.  
+  <br>
+  My passion lies in building systems that are not only functional but also visually intuitive and user-friendly, solving real-world problems at scale.
 </p>
 
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Al_Mansoura%2C_Egypt-bc4749?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-3%2B_Years-bc4749?style=for-the-badge" />
-  <a href="mailto:m.sqr.info@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-m.sqr.info@gmail.com-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Al_Mansoura%2C_Dakahlia%2C_Egypt-bc4749?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-3%2B_Years-bc4749?style=for-the-badge&logoColor=white" />
+  <a href="mailto:m.sqr.info@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-m.sqr.info@gmail.com-bc4749?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
----
 
 ## 🚀 Projects & Contributions
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|-----------|------|
-| ZATCA E-Invoicing | XML signing, secure API integration, Phase 1 & 2 compliance | Laravel, PHP, MySQL, JS, AJAX | [GitHub](https://github.com/mahmoudlsaqr/zatca-invoicing) |
-| Clinics Management Platform | Appointment scheduling, RBAC, billing, scalable backend | Laravel, PHP, MySQL, JS, AJAX, Bootstrap | [GitHub](https://github.com/mahmoudlsaqr/clinics-management) |
-| Admin Communication System | Workflow approvals, audit tracking, internal communication | Laravel, PHP, MySQL, JS, AJAX, Bootstrap | [GitHub](https://github.com/mahmoudlsaqr/admin-communication) |
+| ZATCA E-Invoicing | XML signing, secure API integration, Phase 1 & 2 compliance | Laravel, PHP, MySQL, JS, AJAX | [GitHub](https://github.com/mahmoudsaqr/zatca-invoicing) |
+| Clinics Management Platform | Appointment scheduling, RBAC, billing, scalable backend | Laravel, PHP, MySQL, JS, AJAX, Bootstrap | [GitHub](https://github.com/mahmoudsaqr/clinics-management) |
+| Admin Communication System | Workflow approvals, audit tracking, internal communication | Laravel, PHP, MySQL, JS, AJAX, Bootstrap | [GitHub](https://github.com/mahmoudsaqr/admin-communication) |
 
----
 
-## ⚡ Tech Stack & Tools
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> Tech Stack & Tools
 
 <p align="center">
   <!-- Backend -->
@@ -58,27 +60,37 @@ I blend <b>design sense</b> with <b>code mastery</b> to create elegant, high-per
   <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://img.shields.io/badge/JSON-f72585?style=for-the-badge&logo=json&logoColor=white&hover_color=ff49a0" /></a>
 </p>
 
----
 
-## 📊 GitHub Stats
+## 🧠 Currently Working On
+
+- Scaling Laravel applications & microservices
+- Queue systems & caching optimization
+- Clean architecture & design patterns
+- API performance & security enhancements
+
+
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> Motto
+
+> "Build systems that solve **real business problems**, not just code that works."
+
+<br>
+<br>
+
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> Contact Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudlsaqr&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudlsaqr&theme=tokyonight" />
+  <a href="mailto:m.sqr.info@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-m.sqr.info@gmail.com-red?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahmoud-saqr-9b557038a" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Saqr-blue?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://github.com/mahmoudlsaqr" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-MahmoudSaqr-30343f?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/mahmoudlsaqr" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Facebook-MahmoudSaqr-1877f2?style=for-the-badge&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudlsaqr&theme=react-dark&area=true" />
-</p>
-
----
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:m.sqr.info@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-m.sqr.info@gmail.com-red?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/mahmoud-saqr-9b557038a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Saqr-blue?style=for-the-badge" /></a>
-  <a href="https://github.com/mahmoudlsaqr" target="_blank"><img src="https://img.shields.io/badge/GitHub-MahmoudSaqr-30343f?style=for-the-badge" /></a>
-  <a href="https://www.facebook.com/mahmoudlsaqr" target="_blank"><img src="https://img.shields.io/badge/Facebook-MahmoudSaqr-1877f2?style=for-the-badge" /></a>
-  <a href="https://www.instagram.com/mahmoudlsaqr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-MahmoudSaqr-e4405f?style=for-the-badge" /></a>
-</p>
+ما رأيك الان 
