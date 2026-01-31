@@ -106,14 +106,14 @@
 - API performance & security enhancements
 
 
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="35" /> Motto
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> Motto
 
 > "Build systems that solve **real business problems**, not just code that works."
 
 <br>
 <br>
 
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="25" />  Contact Me
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />  Contact Me
 
 <p align="center">
   <a href="mailto:m.sqr.info@gmail.com" target="_blank" style="text-decoration:none;">
