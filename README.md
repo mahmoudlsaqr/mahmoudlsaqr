@@ -48,7 +48,7 @@
 | 🏥 **Clinics Management Platform** | Appointment scheduling, RBAC, billing, scalable backend |
 | 🏢 **Admin Communication System** | Workflow approvals, audit tracking, internal communication |
 
----
+<br>
 
 ## 📊 GitHub Stats
 
@@ -56,7 +56,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudsaqr&theme=react-dark&area=true" />
 </p>
 
----
+<br>
 
 ## 🧠 Currently Working On
 
@@ -65,7 +65,7 @@
 - Clean architecture & design patterns
 - API performance & security enhancements
 
----
+<br>
 
 ## 📫 Contact Me
 
@@ -74,7 +74,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Saqr-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
----
+<br>
 
 ## ⚡ Motto
 
