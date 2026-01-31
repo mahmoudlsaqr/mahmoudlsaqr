@@ -30,56 +30,56 @@
 
 <p align="center">
   <!-- Backend -->
-  <a href="https://www.php.net/" target="_blank">
+  <a href="https://www.php.net/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/PHP-4895ef?style=for-the-badge&logo=php&logoColor=white" />
   </a>
-  <a href="https://laravel.com/" target="_blank">
+  <a href="https://laravel.com/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Laravel-c75146?style=for-the-badge&logo=laravel&logoColor=white" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
+  <a href="https://www.mysql.com/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/MySQL-136f63?style=for-the-badge&logo=mysql&logoColor=white" />
   </a>
-  <a href="https://redis.io/" target="_blank">
+  <a href="https://redis.io/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Redis-9a031e?style=for-the-badge&logo=redis&logoColor=white" />
   </a>
-  <a href="https://www.linux.org/" target="_blank">
+  <a href="https://www.linux.org/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Linux-341e6f?style=for-the-badge&logo=linux&logoColor=white" />
   </a>
 
   <!-- Frontend & JS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Ajax" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Ajax" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Ajax-007fff?style=for-the-badge" />
   </a>
-  <a href="https://getbootstrap.com/" target="_blank">
+  <a href="https://getbootstrap.com/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </a>
-  <a href="https://jquery.com/" target="_blank">
+  <a href="https://jquery.com/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/jQuery-0769ad?style=for-the-badge&logo=jquery&logoColor=white" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/APIs-ff5733?style=for-the-badge" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/JavaScript-(ES6+)-f0db4f?style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
   </a>
 
   <!-- DevOps & Tools -->
-  <a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd" target="_blank">
+  <a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/CI/CD Pipelines-008080?style=for-the-badge" />
   </a>
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Git/GitHub-30343f?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://getcomposer.org/" target="_blank">
+  <a href="https://getcomposer.org/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Composer-8892be?style=for-the-badge&logo=composer&logoColor=white" />
   </a>
-  <a href="https://www.json.org/json-en.html" target="_blank">
+  <a href="https://www.json.org/json-en.html" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/JSON-292929?style=for-the-badge&logo=json&logoColor=white" />
   </a>
 </p>
