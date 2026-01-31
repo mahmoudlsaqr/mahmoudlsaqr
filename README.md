@@ -131,16 +131,16 @@ Every system I build has:
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35" /> Tech Arsenal
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
 
-<p align="center">
   <!-- Backend -->
   <span>
-    <b>Backend:</b> 
+    <b>Backend:</b>
     <img src="https://img.shields.io/badge/PHP%208+-777BB4?style=flat-square&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
     <img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square" />
   </span>
-  <br><br>
+
   <!-- Frontend -->
   <span>
     <b>Frontend:</b>
@@ -150,14 +150,14 @@ Every system I build has:
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   </span>
-  <br><br>
+
   <!-- Database -->
   <span>
     <b>Database:</b>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   </span>
-  <br><br>
+
   <!-- DevOps -->
   <span>
     <b>DevOps:</b>
@@ -165,7 +165,7 @@ Every system I build has:
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square" />
   </span>
-  <br><br>
+
   <!-- Architecture -->
   <span>
     <b>Architecture:</b>
@@ -173,7 +173,9 @@ Every system I build has:
     <img src="https://img.shields.io/badge/Clean%20Code-00C7B7?style=flat-square" />
     <img src="https://img.shields.io/badge/Design%20Patterns-FF6B6B?style=flat-square" />
   </span>
+
 </p>
+
 
 </div>
 
