@@ -10,7 +10,7 @@
 </p>
 
 
-## <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> About Me
+## <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="30" /> About Me
 
 <p align="center">
   I'm a 'Full-Stack Developer' with expertise in Laravel & scalable APIs and strong frontend skills.  
