@@ -42,11 +42,32 @@
 
 ## 🚀 Projects & Contributions
 
-| Project | Description |
-|---------|---------------------------------------|
-| 🧾 **ZATCA E-Invoicing** | XML signing, secure API integration, Phase 1 & 2 compliance |
-| 🏥 **Clinics Management Platform** | Appointment scheduling, RBAC, billing, scalable backend |
-| 🏢 **Admin Communication System** | Workflow approvals, audit tracking, internal communication |
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/ZATCA-E--Invoicing-blue?style=for-the-badge&logo=laravel&logoColor=white" alt="ZATCA E-Invoicing" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Clinics-Management-green?style=for-the-badge&logo=mysql&logoColor=white" alt="Clinics Management" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Admin-Communication-orange?style=for-the-badge&logo=slack&logoColor=white" alt="Admin Communication" />
+  </a>
+</p>
+
+<p align="center">
+  🧾 <b>ZATCA E-Invoicing</b><br/>
+  Secure XML signing, API integration, Phase 1 & 2 compliance
+</p>
+
+<p align="center">
+  🏥 <b>Clinics Management Platform</b><br/>
+  Appointment scheduling, RBAC, billing & scalable backend
+</p>
+
+<p align="center">
+  🏢 <b>Administrative Communication System</b><br/>
+  Workflow approvals, audit tracking & internal communication
+</p>
 
 <br>
 
