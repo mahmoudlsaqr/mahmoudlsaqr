@@ -160,8 +160,6 @@ Every system I build has:
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35" /> Tech Arsenal
 
-### Complete Stack
-
 | Category | Technologies |
 |----------|-------------|
 | **Backend** | ![PHP](https://img.shields.io/badge/PHP%208+-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![RESTful API](https://img.shields.io/badge/REST%20API-009688?style=flat-square) |
@@ -179,10 +177,6 @@ Every system I build has:
 ## <img src="https://user-images.githubusercontent.com/74038190/216122003-5358d0be-78f9-4301-8481-247f6ca51655.png" alt="Trophy" width="35" /> Achievements & Stats
 
 <div align="center">
-
-<!-- GitHub Stats Cards -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahmoudlsaqr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=bc4749&icon_color=bc4749&text_color=c9d1d9&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudlsaqr&theme=radical&hide_border=true&background=0D1117&stroke=bc4749&ring=bc4749&fire=bc4749&currStreakLabel=bc4749" />
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudlsaqr&custom_title=Contribution%20Graph&bg_color=0D1117&color=bc4749&line=bc4749&point=FFFFFF&area_color=bc4749&title_color=FFFFFF&area=true&hide_border=true" width="98%" />
