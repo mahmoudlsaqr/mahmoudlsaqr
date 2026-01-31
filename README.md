@@ -36,7 +36,7 @@
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> Tech Stack & Tools
 
-<p align="center">
+<p>
   <!-- Backend -->
   <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-4895ef?style=for-the-badge&logo=php&logoColor=white&hover_color=6e90ff" /></a>
   <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-c75146?style=for-the-badge&logo=laravel&logoColor=white&hover_color=e97461" /></a>
