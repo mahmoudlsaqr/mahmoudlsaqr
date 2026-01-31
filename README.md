@@ -187,11 +187,9 @@ Every system I build has:
 
 </div>
 
-<div align="center">
+<div>
 
 ## 💭 My Development Philosophy
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 ### *"Code is like humor. When you have to explain it, it's bad."*
 
@@ -203,11 +201,11 @@ Every system I build has:
 
 **🎯 My Principles:**
 
-✅ **Clean Code** - Write code that humans can understand  
-✅ **Performance** - Optimize ruthlessly, but wisely  
-✅ **Security** - Never compromise on safety  
-✅ **Scalability** - Build for tomorrow, not just today  
-✅ **Documentation** - Code explains HOW, comments explain WHY  
+- **Clean Code** - Write code that humans can understand  
+- **Performance** - Optimize ruthlessly, but wisely  
+- **Security** - Never compromise on safety  
+- **Scalability** - Build for tomorrow, not just today  
+- **Documentation** - Code explains HOW, comments explain WHY  
 
 </div>
 
