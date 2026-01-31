@@ -2,9 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Harshkhatri24-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/Harshkhatri24) [![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/harshkumarkhatri/) [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri)
-[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
-
+[![Twitter Badge](https://img.shields.io/badge/-@Harshkhatri24-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/Harshkhatri24) [![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/harshkumarkhatri/) [![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
 <p>
 My name is Sy Rashid, and I love to build stuff, usually with code. In school I spent time building nuclear reactor simulations, then built hard kombucha and wine brands with Anheuser-Busch, and now I work building art tech with ARTSVP. Coding has been an on and off love affair for me since high school, until I really understood the role software could play in creating a more equitable society. I just wrapped up at Georgia Tech (round 2) getting my Masters in Machine Learning because I believe in the field's outsized impact to create those opportunities. 
