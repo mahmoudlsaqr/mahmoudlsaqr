@@ -93,7 +93,7 @@
     <img src="https://img.shields.io/badge/Composer-8892be?style=for-the-badge&logo=composer&logoColor=white" />
   </a>
   <a href="https://www.json.org/json-en.html" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/JSON-292929?style=for-the-badge&logo=json&logoColor=white" />
+    <img src="https://img.shields.io/badge/JSON-f72585?style=for-the-badge&logo=json&logoColor=white" />
   </a>
 </p>
 
@@ -123,7 +123,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Saqr-blue?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://github.com/mahmoudlsaqr" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub-MahmoudSaqr-181717?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-MahmoudSaqr-30343f?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/mahmoudlsaqr" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Facebook-MahmoudSaqr-1877f2?style=for-the-badge&logoColor=white" />
