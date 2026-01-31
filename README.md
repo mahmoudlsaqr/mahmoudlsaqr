@@ -160,23 +160,6 @@ Every system I build has:
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35" /> Tech Arsenal
 
-<div align="center">
-
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,linux,nginx" />
-</p>
-
-### Frontend & Design
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,ajax" />
-</p>
-
-### Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,composer" />
-</p>
-
 ### Complete Stack
 
 | Category | Technologies |
