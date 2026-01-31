@@ -159,11 +159,11 @@ Every system I build has:
 
 ### 💬 I'm Always Open To:
 
-🤝 Collaborating on **innovative projects**  
-💡 Discussing **backend architecture** & **best practices**  
-🎯 **Freelance opportunities** & **consulting**  
-📚 Sharing knowledge about **Laravel** & **API design**  
-☕ Talking about **performance optimization** over coffee
+- Collaborating on **innovative projects**  
+- Discussing **backend architecture** & **best practices**  
+- **Freelance opportunities** & **consulting**  
+- Sharing knowledge about **Laravel** & **API design**  
+- Talking about **performance optimization** over coffee
 
 <br>
 
