@@ -44,9 +44,9 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|-----------|------|
-| 🧾 ZATCA E-Invoicing | XML signing, secure API integration, Phase 1 & 2 compliance | Laravel, PHP, MySQL | [GitHub](https://github.com/mahmoudsaqr/zatca-invoicing) |
-| 🏥 Clinics Management Platform | Appointment scheduling, RBAC, billing, scalable backend | Laravel, MySQL, Redis | [GitHub](https://github.com/mahmoudsaqr/clinics-management) |
-| 🏢 Admin Communication System | Workflow approvals, audit tracking, internal communication | Laravel, PHP, JS | [GitHub](https://github.com/mahmoudsaqr/admin-communication) |
+| 🧾 ZATCA E-Invoicing | XML signing, secure API integration, Phase 1 & 2 compliance | Laravel, PHP, MySQL, JS, AJAX, Bootstrap | [GitHub](https://github.com/mahmoudsaqr/zatca-invoicing) |
+| 🏥 Clinics Management Platform | Appointment scheduling, RBAC, billing, scalable backend | Laravel, PHP, MySQL, JS, AJAX, Bootstrap | [GitHub](https://github.com/mahmoudsaqr/clinics-management) |
+| 🏢 Admin Communication System | Workflow approvals, audit tracking, internal communication | Laravel, PHP, MySQL, JS, AJAX, Bootstrap | [GitHub](https://github.com/mahmoudsaqr/admin-communication) |
 
 <br>
 
