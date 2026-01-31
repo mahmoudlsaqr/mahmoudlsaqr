@@ -13,10 +13,9 @@
 ## 🎨 About Me
 
 <p align="center">
-  I'm a <strong>Full-Stack Developer</strong> with a strong focus on 
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=4895ef&center=true&vCenter=true&width=400&lines=Laravel;APIs;Frontend;Scalable+Systems" alt="Typing SVG" />  
-  blending <strong>design sense</strong> with <strong>code craftsmanship</strong>, creating 
-  <strong>efficient, clean, and elegant systems</strong> that solve real-world problems.
+  I'm a **Full-Stack Developer** with **expertise in Laravel & scalable APIs** and strong **frontend skills**.  
+  I combine **code mastery** with **design intuition**, crafting **high-performance, robust, and elegant applications** from end-to-end.  
+  My passion lies in building **systems that are not only functional but also visually intuitive and user-friendly**, solving **real-world problems at scale**.
 </p>
 
 
