@@ -56,7 +56,7 @@
   <!-- DevOps & Tools -->
   <a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd" target="_blank"><img src="https://img.shields.io/badge/CI/CD Pipelines-008080?style=for-the-badge&hover_color=00a0a0" /></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/Git/GitHub-30343f?style=for-the-badge&logo=github&logoColor=white&hover_color=555" /></a>
-  <a href="https://getcomposer.org/" target="_blank"><img src="https://img.shields.io/badge/Composer-edae49?style=for-the-badge&logo=composer&logoColor=white&hover_color=a3a7d0" /></a>
+  <a href="https://getcomposer.org/" target="_blank"><img src="https://img.shields.io/badge/Composer-edae49?style=for-the-badge&logo=composer&logoColor=edae49&hover_color=a3a7d0" /></a>
   <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://img.shields.io/badge/JSON-f72585?style=for-the-badge&logo=json&logoColor=white&hover_color=ff49a0" /></a>
 </p>
 
