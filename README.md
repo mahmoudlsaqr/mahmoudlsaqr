@@ -28,6 +28,15 @@
 </p>
 
 
+## 🚀 Projects & Contributions
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|-----------|------|
+| ZATCA E-Invoicing | XML signing, secure API integration, Phase 1 & 2 compliance | Laravel, PHP, MySQL, JS, AJAX | [GitHub](https://github.com/mahmoudsaqr/zatca-invoicing) |
+| Clinics Management Platform | Appointment scheduling, RBAC, billing, scalable backend | Laravel, PHP, MySQL, JS, AJAX, Bootstrap | [GitHub](https://github.com/mahmoudsaqr/clinics-management) |
+| Admin Communication System | Workflow approvals, audit tracking, internal communication | Laravel, PHP, MySQL, JS, AJAX, Bootstrap | [GitHub](https://github.com/mahmoudsaqr/admin-communication) |
+
+
 ## ⚡ Tech Stack & Tools
 
 <p align="center">
@@ -87,13 +96,13 @@
 </p>
 
 
-## 🚀 Projects & Contributions
+## 🧠 Currently Working On
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|-----------|------|
-| ZATCA E-Invoicing | XML signing, secure API integration, Phase 1 & 2 compliance | Laravel, PHP, MySQL, JS, AJAX | [GitHub](https://github.com/mahmoudsaqr/zatca-invoicing) |
-| Clinics Management Platform | Appointment scheduling, RBAC, billing, scalable backend | Laravel, PHP, MySQL, JS, AJAX, Bootstrap | [GitHub](https://github.com/mahmoudsaqr/clinics-management) |
-| Admin Communication System | Workflow approvals, audit tracking, internal communication | Laravel, PHP, MySQL, JS, AJAX, Bootstrap | [GitHub](https://github.com/mahmoudsaqr/admin-communication) |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%" />
+  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%" />
+  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%" />
+</p>
 
 
 ## 🧠 Currently Working On
