@@ -45,13 +45,13 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-341e6f?style=for-the-badge&logo=linux&logoColor=white&hover_color=5232a0" /></a>
 
   <!-- Frontend & JS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Ajax" target="_blank"><img src="https://img.shields.io/badge/Ajax-007fff?style=for-the-badge&hover_color=3399ff" /></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white&hover_color=7a5aa0" /></a>
-  <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769ad?style=for-the-badge&logo=jquery&logoColor=white&hover_color=1b8ad0" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API" target="_blank"><img src="https://img.shields.io/badge/APIs-ff5733?style=for-the-badge&hover_color=ff7b50" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-(ES6+)-f0db4f?style=for-the-badge&logo=javascript&logoColor=black&hover_color=f7e14f" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white&hover_color=ff6f3c" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white&hover_color=3b61f0" /></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white&hover_color=7a5aa0" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-(ES6+)-f0db4f?style=for-the-badge&logo=javascript&logoColor=black&hover_color=f7e14f" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Ajax" target="_blank"><img src="https://img.shields.io/badge/Ajax-007fff?style=for-the-badge&hover_color=3399ff" /></a>
+  <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769ad?style=for-the-badge&logo=jquery&logoColor=white&hover_color=1b8ad0" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API" target="_blank"><img src="https://img.shields.io/badge/APIs-ff5733?style=for-the-badge&hover_color=ff7b50" /></a>
 
   <!-- DevOps & Tools -->
   <a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd" target="_blank"><img src="https://img.shields.io/badge/CI/CD Pipelines-008080?style=for-the-badge&hover_color=00a0a0" /></a>
