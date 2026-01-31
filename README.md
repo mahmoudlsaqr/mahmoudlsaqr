@@ -22,9 +22,9 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Al_Mansoura%2C_Dakahlia%2C_Egypt-532b88?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-3%2B_Years-532b88?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Contact-Email-532b88?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Al_Mansoura%2C_Dakahlia%2C_Egypt-ff9b54?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-3%2B_Years-ff9b54?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contact-Email-ff9b54?style=for-the-badge&logoColor=white" />
 </p>
 
 
