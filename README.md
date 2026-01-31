@@ -13,9 +13,12 @@
 ## 🎨 About Me
 
 <p align="center">
-  I'm a **Backend Developer** with a strong focus on **Laravel & scalable APIs**, blending **design sense** with **code craftsmanship**.  
-  Passionate about creating **efficient, clean, and elegant systems** that solve real-world problems.
+  I'm a <strong>Full-Stack Developer</strong> with a strong focus on 
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=4895ef&center=true&vCenter=true&width=400&lines=Laravel;APIs;Frontend;Scalable+Systems" alt="Typing SVG" />  
+  blending <strong>design sense</strong> with <strong>code craftsmanship</strong>, creating 
+  <strong>efficient, clean, and elegant systems</strong> that solve real-world problems.
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Mansoura%2C_Egypt-532b88?style=for-the-badge&logoColor=white" />
