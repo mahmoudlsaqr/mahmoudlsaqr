@@ -10,7 +10,7 @@
 </p>
 
 
-## 🎨 About Me
+## <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> About Me
 
 <p align="center">
   I'm a 'Full-Stack Developer' with expertise in Laravel & scalable APIs and strong frontend skills.  
@@ -37,7 +37,7 @@
 | Admin Communication System | Workflow approvals, audit tracking, internal communication | Laravel, PHP, MySQL, JS, AJAX, Bootstrap | [GitHub](https://github.com/mahmoudsaqr/admin-communication) |
 
 
-## <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> Tech Stack & Tools
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> Tech Stack & Tools
 
 <p align="center">
   <!-- Backend -->
