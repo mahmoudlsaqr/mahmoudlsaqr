@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/Laravel-c75146?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-136f63?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-9a031e?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-30343f?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-341e6f?style=for-the-badge&logo=linux&logoColor=white" />
 
   <!-- Frontend & JS -->
@@ -48,7 +47,7 @@
 
   <!-- DevOps & Tools -->
   <img src="https://img.shields.io/badge/CI/CD Pipelines-008080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git/GitHub-30343f?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Composer-8892be?style=for-the-badge&logo=composer&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-292929?style=for-the-badge&logo=json&logoColor=white" />
 </p>
