@@ -193,9 +193,8 @@ Every system I build has:
 
 ### *"Code is like humor. When you have to explain it, it's bad."*
 
-> I believe in writing **self-documenting code** that speaks for itself.  
-> Every line should have a purpose, every function should do one thing well,  
-> and every system should be built to **scale and evolve**.
+> I believe in writing **self-documenting code** that speaks for itself.
+> Every line should have a purpose, every function should do one thing well, and every system should be built to **scale and evolve**.
 
 <br>
 
