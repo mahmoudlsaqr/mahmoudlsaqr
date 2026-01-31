@@ -102,14 +102,6 @@ Every system I build has:
 <img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-```php
-✨ Complete Saudi ZATCA Phase 1 & 2 implementation
-🔐 XML generation & cryptographic signing with OpenSSL
-📡 Real-time invoice submission to tax authority
-✅ Full compliance validation & error handling
-📊 Comprehensive reporting & audit trails
-```
-
 <a href="https://github.com/mahmoudlsaqr/zatca-invoicing">
   <img src="https://img.shields.io/badge/View%20Project-bc4749?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -120,15 +112,6 @@ Every system I build has:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-```javascript
-🏥 Multi-clinic medical management system
-👥 Advanced RBAC (Role-Based Access Control)
-📅 Intelligent appointment scheduling
-💰 Integrated billing & invoicing
-📈 Real-time analytics dashboard
-🔒 HIPAA-compliant data security
-```
-
 <a href="https://github.com/mahmoudlsaqr/clinics-management">
   <img src="https://img.shields.io/badge/View%20Project-bc4749?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -138,15 +121,6 @@ Every system I build has:
 <img src="https://img.shields.io/badge/Status-Enterprise%20Level-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/AJAX-007396?style=for-the-badge" />
-
-```ruby
-📨 Internal workflow & approval system
-🔄 Multi-level approval chains
-📝 Comprehensive audit logging
-📎 Document management & versioning
-🔔 Real-time notifications
-🔍 Advanced search & filtering
-```
 
 <a href="https://github.com/mahmoudlsaqr/admin-communication">
   <img src="https://img.shields.io/badge/View%20Project-bc4749?style=for-the-badge&logo=github&logoColor=white" />
@@ -170,7 +144,7 @@ Every system I build has:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-5358d0be-78f9-4301-8481-247f6ca51655.png" alt="Trophy" width="35" /> Achievements & Stats
+## 📈 Achievements & Stats
 
 <div align="center">
   <!-- Activity Graph -->
@@ -181,7 +155,7 @@ Every system I build has:
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="35" /> Let's Connect & Collaborate
 
-<div align="center">
+<div>
 
 ### 💬 I'm Always Open To:
 
