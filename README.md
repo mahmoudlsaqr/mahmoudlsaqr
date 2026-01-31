@@ -44,9 +44,9 @@
 
 | Project | Description |
 |---------|---------------------------------------|
-| 🧾 **ZATCA E-Invoicing** | XML signing, secure API integration, Phase 1 & 2 compliance --------------------------------------- |
-| 🏥 **Clinics Management Platform** | Appointment scheduling, RBAC, billing, scalable backend --------------------------------------- |
-| 🏢 **Admin Communication System** | Workflow approvals, audit tracking, internal communication --------------------------------------- |
+| 🧾 **ZATCA E-Invoicing** | XML signing, secure API integration, Phase 1 & 2 compliance |
+| 🏥 **Clinics Management Platform** | Appointment scheduling, RBAC, billing, scalable backend |
+| 🏢 **Admin Communication System** | Workflow approvals, audit tracking, internal communication |
 
 ---
 
