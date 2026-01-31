@@ -37,7 +37,7 @@
 | Admin Communication System | Workflow approvals, audit tracking, internal communication | Laravel, PHP, MySQL, JS, AJAX, Bootstrap | [GitHub](https://github.com/mahmoudsaqr/admin-communication) |
 
 
-## ⚡ Tech Stack & Tools
+## <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> Tech Stack & Tools
 
 <p align="center">
   <!-- Backend -->
