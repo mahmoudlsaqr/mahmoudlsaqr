@@ -156,8 +156,6 @@ Every system I build has:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35" /> Tech Arsenal
 
 | Category | Technologies |
@@ -172,21 +170,11 @@ Every system I build has:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122003-5358d0be-78f9-4301-8481-247f6ca51655.png" alt="Trophy" width="35" /> Achievements & Stats
 
 <div align="center">
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudlsaqr&custom_title=Contribution%20Graph&bg_color=0D1117&color=bc4749&line=bc4749&point=FFFFFF&area_color=bc4749&title_color=FFFFFF&area=true&hide_border=true" width="98%" />
-
-<!-- Most Used Languages -->
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudlsaqr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=bc4749&text_color=c9d1d9&langs_count=8" />
-
-<!-- Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=mahmoudlsaqr&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
-
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudlsaqr&custom_title=Contribution%20Graph&bg_color=0D1117&color=bc4749&line=bc4749&point=FFFFFF&area_color=bc4749&title_color=FFFFFF&area=true&hide_border=true" width="98%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
