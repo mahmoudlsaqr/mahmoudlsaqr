@@ -71,7 +71,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Email-m.sqr.info@gmail.com-red?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LinkedIn-mahmoud-saqr-blue?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Mahmoud-Saqr-blue?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
