@@ -1,96 +1,375 @@
-<h1 align="center">👋 Hi, I'm Mahmoud Adel Saqr</h1>
-<h3 align="center">Backend PHP & Laravel Developer 🚀</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Laravel+Backend+Developer;API+Architecture+Specialist;ZATCA+Integration+Engineer;Building+Scalable+Systems;Performance+Optimization+Expert;Always+Learning+New+Tech&center=true&width=700&height=50">
-</p>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mahmoud%20Saqr&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
-## <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="35" /> About Me
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Backend+PHP+%26+Laravel+Developer+%F0%9F%9A%80;Building+Scalable+APIs+%26+Systems+%F0%9F%8F%97%EF%B8%8F;ZATCA+Integration+Specialist+%F0%9F%94%90" alt="Typing SVG" /></a>
 
-<p align="center">
-  I'm a 'Full-Stack Developer' with expertise in Laravel & scalable APIs and strong frontend skills.  
-  <br>
-  I combine code mastery with design intuition, crafting high-performance, robust, and elegant applications from end-to-end.  
-  <br>
-  My passion lies in building systems that are not only functional but also visually intuitive and user-friendly, solving real-world problems at scale.
-</p>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Al_Mansoura%2C_Dakahlia%2C_Egypt-bc4749?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-3%2B_Years-bc4749?style=for-the-badge&logoColor=white" />
-  <a href="mailto:m.sqr.info@gmail.com" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-m.sqr.info@gmail.com-bc4749?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-
-
-## 🚀 Projects & Contributions
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|-----------|------|
-| ZATCA E-Invoicing | XML signing, secure API integration, Phase 1 & 2 compliance | Laravel, PHP, MySQL, JS, AJAX | [GitHub](https://github.com/mahmoudsaqr/zatca-invoicing) |
-| Clinics Management Platform | Appointment scheduling, RBAC, billing, scalable backend | Laravel, PHP, MySQL, JS, AJAX, Bootstrap | [GitHub](https://github.com/mahmoudsaqr/clinics-management) |
-| Admin Communication System | Workflow approvals, audit tracking, internal communication | Laravel, PHP, MySQL, JS, AJAX, Bootstrap | [GitHub](https://github.com/mahmoudsaqr/admin-communication) |
-
-
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> Tech Stack & Tools
-
+<!-- Profile Views & Badges -->
 <p>
-  <!-- Backend -->
-  <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-4895ef?style=for-the-badge&logo=php&logoColor=white&hover_color=6e90ff" /></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-c75146?style=for-the-badge&logo=laravel&logoColor=white&hover_color=e97461" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API" target="_blank"><img src="https://img.shields.io/badge/APIs-ff5733?style=for-the-badge&hover_color=ff7b50" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-136f63?style=for-the-badge&logo=mysql&logoColor=white&hover_color=169e7a" /></a>
-  <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-9a031e?style=for-the-badge&logo=redis&logoColor=white&hover_color=c5122c" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-341e6f?style=for-the-badge&logo=linux&logoColor=white&hover_color=5232a0" /></a>
-
-  <!-- Frontend & JS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white&hover_color=ff6f3c" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white&hover_color=3b61f0" /></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white&hover_color=7a5aa0" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-(ES6+)-f0db4f?style=for-the-badge&logo=javascript&logoColor=black&hover_color=f7e14f" /></a>
-  <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769ad?style=for-the-badge&logo=jquery&logoColor=white&hover_color=1b8ad0" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Ajax" target="_blank"><img src="https://img.shields.io/badge/Ajax-007fff?style=for-the-badge&hover_color=3399ff" /></a>
-
-  <!-- DevOps & Tools -->
-  <a href="https://getcomposer.org/" target="_blank"><img src="https://img.shields.io/badge/Composer-edae49?style=for-the-badge&hover_color=a3a7d0" /></a>
-  <a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd" target="_blank"><img src="https://img.shields.io/badge/CI/CD Pipelines-008080?style=for-the-badge&hover_color=00a0a0" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/Git/GitHub-30343f?style=for-the-badge&logo=github&logoColor=white&hover_color=555" /></a>
-  <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://img.shields.io/badge/JSON-f72585?style=for-the-badge&logo=json&logoColor=white&hover_color=ff49a0" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mahmoudlsaqr&label=Profile%20Views&color=bc4749&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/mahmoudlsaqr?label=Followers&style=flat-square&color=bc4749" alt="followers" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-success?style=flat-square" alt="status" />
 </p>
 
+<!-- Animated GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
-## 🧠 Currently Working On
+</div>
 
-- Scaling Laravel applications & microservices
-- Queue systems & caching optimization
-- Clean architecture & design patterns
-- API performance & security enhancements
+---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> Motto
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Hey There, I'm Mahmoud!
 
-> "Build systems that solve **real business problems**, not just code that works."
+```javascript
+const mahmoud = {
+    location: "📍 Al Mansoura, Egypt",
+    role: "Backend Architect & Full-Stack Developer",
+    experience: "3+ Years",
+    
+    code: {
+        backend: ["PHP 8+", "Laravel", "RESTful APIs"],
+        frontend: ["JavaScript (ES6+)", "jQuery", "Bootstrap", "AJAX"],
+        databases: ["MySQL", "Redis"],
+        architecture: ["SOLID", "Clean Code", "Design Patterns", "MVC"]
+    },
+    
+    specialization: {
+        zatca: "✅ Phase 1 & 2 E-Invoicing Expert",
+        performance: "⚡ 40% system optimization achieved",
+        security: "🔐 OAuth2, SSL, API Security",
+        scalability: "📈 Multi-branch systems & microservices"
+    },
+    
+    currentMission: "Building systems that solve REAL business problems 🎯",
+    
+    funFact: "I turn coffee ☕ into clean code 💻"
+};
+```
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> What Makes Me Different
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Problem Solver
+I don't just write code—I solve **real business challenges**. From ZATCA compliance to multi-branch management systems, every project is a solution to a real-world problem.
+
+### ⚡ Performance Fanatic
+Achieved **40% performance boost** through:
+- Database indexing & query optimization
+- Redis caching strategies
+- Laravel queue systems
+- Code profiling & refactoring
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ Architecture Enthusiast
+Building systems with:
+- **SOLID principles**
+- **Clean Architecture**
+- **Design Patterns**
+- **Scalable structures**
+
+### 🔐 Security First
+Every system I build has:
+- OAuth2 authentication
+- API rate limiting
+- Input validation & sanitization
+- Encrypted communications
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/221857984-5bf77e81-6f65-4502-a7c8-f29a978efb3f.png" alt="Rocket" width="35" /> Featured Projects
+
+<div align="center">
+
+### 🧾 ZATCA E-Invoicing Integration
+<img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+```php
+✨ Complete Saudi ZATCA Phase 1 & 2 implementation
+🔐 XML generation & cryptographic signing with OpenSSL
+📡 Real-time invoice submission to tax authority
+✅ Full compliance validation & error handling
+📊 Comprehensive reporting & audit trails
+```
+
+<a href="https://github.com/mahmoudlsaqr/zatca-invoicing">
+  <img src="https://img.shields.io/badge/View%20Project-bc4749?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+### 🏥 Clinics Management Platform
+<img src="https://img.shields.io/badge/Status-In%20Production-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+```javascript
+🏥 Multi-clinic medical management system
+👥 Advanced RBAC (Role-Based Access Control)
+📅 Intelligent appointment scheduling
+💰 Integrated billing & invoicing
+📈 Real-time analytics dashboard
+🔒 HIPAA-compliant data security
+```
+
+<a href="https://github.com/mahmoudlsaqr/clinics-management">
+  <img src="https://img.shields.io/badge/View%20Project-bc4749?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+### 📋 Administrative Communication System
+<img src="https://img.shields.io/badge/Status-Enterprise%20Level-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/AJAX-007396?style=for-the-badge" />
+
+```ruby
+📨 Internal workflow & approval system
+🔄 Multi-level approval chains
+📝 Comprehensive audit logging
+📎 Document management & versioning
+🔔 Real-time notifications
+🔍 Advanced search & filtering
+```
+
+<a href="https://github.com/mahmoudlsaqr/admin-communication">
+  <img src="https://img.shields.io/badge/View%20Project-bc4749?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35" /> Tech Arsenal
+
+<div align="center">
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,linux,nginx" />
+</p>
+
+### Frontend & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,ajax" />
+</p>
+
+### Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,composer" />
+</p>
+
+### Complete Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Backend** | ![PHP](https://img.shields.io/badge/PHP%208+-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![RESTful API](https://img.shields.io/badge/REST%20API-009688?style=flat-square) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square) |
+| **Architecture** | ![SOLID](https://img.shields.io/badge/SOLID-0052CC?style=flat-square) ![Clean Code](https://img.shields.io/badge/Clean%20Code-00C7B7?style=flat-square) ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF6B6B?style=flat-square) |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-5358d0be-78f9-4301-8481-247f6ca51655.png" alt="Trophy" width="35" /> Achievements & Stats
+
+<div align="center">
+
+<!-- GitHub Stats Cards -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahmoudlsaqr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=bc4749&icon_color=bc4749&text_color=c9d1d9&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudlsaqr&theme=radical&hide_border=true&background=0D1117&stroke=bc4749&ring=bc4749&fire=bc4749&currStreakLabel=bc4749" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudlsaqr&custom_title=Contribution%20Graph&bg_color=0D1117&color=bc4749&line=bc4749&point=FFFFFF&area_color=bc4749&title_color=FFFFFF&area=true&hide_border=true" width="98%" />
+
+<!-- Most Used Languages -->
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudlsaqr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=bc4749&text_color=c9d1d9&langs_count=8" />
+
+<!-- Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=mahmoudlsaqr&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Brain" width="35" /> Current Focus
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Mahmoud<br/>Saqr))
+    Backend Mastery
+      Laravel Advanced Patterns
+      Microservices Architecture
+      Event Sourcing
+    Performance
+      Query Optimization
+      Caching Strategies
+      Load Balancing
+    Security
+      API Security
+      OAuth2 & JWT
+      Penetration Testing
+    DevOps
+      CI/CD Pipelines
+      Docker & Kubernetes
+      Cloud Services
+```
+
+</div>
+
+### 🎯 What I'm Learning Right Now
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**📚 Studying**
+- Advanced Laravel Patterns
+- Microservices Architecture
+- Event-Driven Systems
+- GraphQL APIs
+
+</td>
+<td width="33%" align="center">
+
+**🛠️ Building**
+- Multi-tenant SaaS Platform
+- Real-time Chat System
+- API Gateway Service
+- Payment Integration Module
+
+</td>
+<td width="33%" align="center">
+
+**🚀 Exploring**
+- Docker & Kubernetes
+- AWS Services
+- Redis Advanced Features
+- WebSocket Implementation
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="35" /> Let's Connect & Collaborate
+
+<div align="center">
+
+### 💬 I'm Always Open To:
+
+🤝 Collaborating on **innovative projects**  
+💡 Discussing **backend architecture** & **best practices**  
+🎯 **Freelance opportunities** & **consulting**  
+📚 Sharing knowledge about **Laravel** & **API design**  
+☕ Talking about **performance optimization** over coffee
 
 <br>
-<br>
 
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> Contact Me
-
-<p align="center">
-  <a href="mailto:m.sqr.info@gmail.com" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-m.sqr.info@gmail.com-red?style=for-the-badge&logoColor=white" />
+<!-- Social Links with Hover Effect -->
+<p>
+  <a href="mailto:m.sqr.info@gmail.com">
+    <img src="https://img.shields.io/badge/Email-m.sqr.info@gmail.com-bc4749?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mahmoud-saqr-9b557038a" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Saqr-blue?style=for-the-badge&logoColor=white" />
+  <a href="https://www.linkedin.com/in/mahmoud-saqr-9b557038a">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Saqr-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/mahmoudlsaqr" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub-MahmoudSaqr-30343f?style=for-the-badge&logoColor=white" />
+  <a href="https://github.com/mahmoudlsaqr">
+    <img src="https://img.shields.io/badge/GitHub-mahmoudlsaqr-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/mahmoudlsaqr" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Facebook-MahmoudSaqr-1877f2?style=for-the-badge&logoColor=white" />
+  <a href="https://www.facebook.com/mahmoudlsaqr">
+    <img src="https://img.shields.io/badge/Facebook-MahmoudSaqr-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
-ما رأيك الان 
+<br>
+
+### 📊 Profile Analytics
+
+<img src="https://metrics.lecoq.io/mahmoudlsaqr?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&code=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Africa%2FCairo" width="100%">
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 My Development Philosophy
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+### *"Code is like humor. When you have to explain it, it's bad."*
+
+> I believe in writing **self-documenting code** that speaks for itself.  
+> Every line should have a purpose, every function should do one thing well,  
+> and every system should be built to **scale and evolve**.
+
+<br>
+
+**🎯 My Principles:**
+
+✅ **Clean Code** - Write code that humans can understand  
+✅ **Performance** - Optimize ruthlessly, but wisely  
+✅ **Security** - Never compromise on safety  
+✅ **Scalability** - Build for tomorrow, not just today  
+✅ **Documentation** - Code explains HOW, comments explain WHY  
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Thanks for Stopping By!
+
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
+**If you find my work interesting, don't forget to ⭐ my repositories!**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### 📈 Let's Build Something Amazing Together!
+
+</div>
+
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%" />
