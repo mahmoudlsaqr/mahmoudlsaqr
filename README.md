@@ -126,6 +126,17 @@ Every system I build has:
   <img src="https://img.shields.io/badge/View%20Project-bc4749?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+### 🦷 Dental Lab Management System
+<img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/AJAX-007396?style=for-the-badge" />
+
+<a href="https://github.com/mahmoudlsaqr/dental-lab-management">
+  <img src="https://img.shields.io/badge/View%20Project-bc4749?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
