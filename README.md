@@ -214,73 +214,6 @@ Every system I build has:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Brain" width="35" /> Current Focus
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Mahmoud<br/>Saqr))
-    Backend Mastery
-      Laravel Advanced Patterns
-      Microservices Architecture
-      Event Sourcing
-    Performance
-      Query Optimization
-      Caching Strategies
-      Load Balancing
-    Security
-      API Security
-      OAuth2 & JWT
-      Penetration Testing
-    DevOps
-      CI/CD Pipelines
-      Docker & Kubernetes
-      Cloud Services
-```
-
-</div>
-
-### 🎯 What I'm Learning Right Now
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**📚 Studying**
-- Advanced Laravel Patterns
-- Microservices Architecture
-- Event-Driven Systems
-- GraphQL APIs
-
-</td>
-<td width="33%" align="center">
-
-**🛠️ Building**
-- Multi-tenant SaaS Platform
-- Real-time Chat System
-- API Gateway Service
-- Payment Integration Module
-
-</td>
-<td width="33%" align="center">
-
-**🚀 Exploring**
-- Docker & Kubernetes
-- AWS Services
-- Redis Advanced Features
-- WebSocket Implementation
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="35" /> Let's Connect & Collaborate
 
 <div align="center">
@@ -314,8 +247,6 @@ mindmap
 <br>
 
 </div>
-
----
 
 <div align="center">
 
