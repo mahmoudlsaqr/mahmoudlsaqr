@@ -91,7 +91,7 @@
 | 🏥 Clinics Management Platform | Appointment scheduling, RBAC, billing, scalable backend | Laravel, PHP, MySQL, JS, AJAX, Bootstrap | [GitHub](https://github.com/mahmoudsaqr/clinics-management) |
 | 🏢 Admin Communication System | Workflow approvals, audit tracking, internal communication | Laravel, PHP, MySQL, JS, AJAX, Bootstrap | [GitHub](https://github.com/mahmoudsaqr/admin-communication) |
 
-<br>
+
 
 ## 📊 GitHub Stats
 
@@ -106,7 +106,7 @@
 - Clean architecture & design patterns
 - API performance & security enhancements
 
-<br>
+
 
 ## 📫 Contact Me
 
@@ -115,7 +115,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Saqr-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
-<br>
+<
 
 ## ⚡ Motto
 
