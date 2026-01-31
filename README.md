@@ -130,87 +130,17 @@ Every system I build has:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35" /> Tech Arsenal
-<div align="center">
-Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,linux,nginx" />
-</p>
-Frontend & Design
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,ajax" />
-</p>
-Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,composer" />
-</p>
-Complete Stack
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Backend</strong></td>
-<td width="80%">
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-</td>
-</tr>
-<tr>
-<td width="20%" align="center"><strong>Frontend</strong></td>
-<td width="80%">
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-</td>
-</tr>
-<tr>
-<td width="20%" align="center"><strong>Database & Caching</strong></td>
-<td width="80%">
-Show Image
-Show Image
-Show Image
-Show Image
-</td>
-</tr>
-<tr>
-<td width="20%" align="center"><strong>DevOps & Tools</strong></td>
-<td width="80%">
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-</td>
-</tr>
-<tr>
-<td width="20%" align="center"><strong>Architecture & Principles</strong></td>
-<td width="80%">
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-</td>
-</tr>
-<tr>
-<td width="20%" align="center"><strong>Specialized Skills</strong></td>
-<td width="80%">
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-</td>
-</tr>
-</table>
-</div>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35" /> Tech Arsenal
 
+| Category | Technologies |
+|----------|-------------|
+| **Backend** | ![PHP](https://img.shields.io/badge/PHP%208+-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![RESTful API](https://img.shields.io/badge/REST%20API-009688?style=flat-square) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square) |
+| **Architecture** | ![SOLID](https://img.shields.io/badge/SOLID-0052CC?style=flat-square) ![Clean Code](https://img.shields.io/badge/Clean%20Code-00C7B7?style=flat-square) ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF6B6B?style=flat-square) |
+
+عايز الجدول بعرض الصفحة
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
