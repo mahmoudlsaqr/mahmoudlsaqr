@@ -51,40 +51,6 @@ Workflow approvals & communication tracking.
 
 ---
 
-## 📊 GitHub Activity & Stats
-
-<p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark&area=true" />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react-dark" />
-</p>
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react-dark&count_private=true" />
-</p>
-
----
-
-## 🏆 Achievements & Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=react-dark&row=1&column=6&margin-w=10" />
-</p>
-
-<p align="center">
-  <!-- Optional Extra Badges -->
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
-  <img alt="Repositories" src="https://img.shields.io/github/repos/YOUR_USERNAME?style=flat-square&label=Repositories" />
-  <img alt="Stars" src="https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&label=Stars" />
-</p>
-
----
-
 ## 🧠 Currently Working On
 
 - Scaling Laravel applications
