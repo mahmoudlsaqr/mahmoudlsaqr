@@ -1,72 +1,94 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Adel Saqr</h1>
+<h1 align="center">👋 Hi, I'm Mahmoud Adel Saqr</h1>
 <h3 align="center">Backend PHP & Laravel Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Laravel+Backend+Developer;API+Architecture+Specialist;ZATCA+Integration+Engineer;Building+Scalable+Systems;Performance+Optimization+Expert;Always+Learning+New+Tech&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Laravel+Backend+Developer;API+Architecture+Specialist;ZATCA+Integration+Engineer;Building+Scalable+Systems;Performance+Optimization+Expert;Always+Learning+New+Tech&center=true&width=700&height=50">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🎨 About Me
 
-- 🔥 Backend Developer with **2+ years experience**
-- ⚙️ Specialized in Laravel & scalable APIs
-- 🧾 Implemented **ZATCA Phase 1 & 2 Integration**
-- 🚀 Performance & database optimization specialist
-- 🤝 Open to backend opportunities
-- 📍 Mansoura, Egypt
+<p align="center">
+  I'm a **Backend Developer** with a strong focus on **Laravel & scalable APIs**, blending **design sense** with **code craftsmanship**.  
+  Passionate about creating **efficient, clean, and elegant systems** that solve real-world problems.
+</p>
 
----
-
-## ⚡ Tech Stack
-
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel)
-
-### Databases & Cache
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Mansoura%2C_Egypt-blue?style=for-the-badge&logo=earth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-2%2B_Years-orange?style=for-the-badge&logo=briefcase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contact-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Main Projects
+## ⚡ Tech Stack & Tools
 
-### 🧾 ZATCA E-Invoicing Integration
-Secure invoice reporting, XML signing & compliance automation.
+<p align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
 
-### 🏥 Clinics Management Platform
-Appointments, billing, RBAC & scalable services.
+---
 
-### 🏢 Administrative Communication System
-Workflow approvals & communication tracking.
+## 🚀 Projects & Contributions
+
+| Project | Description |
+|---------|-------------|
+| 🧾 **ZATCA E-Invoicing** | XML signing, secure API integration, Phase 1 & 2 compliance |
+| 🏥 **Clinics Management Platform** | Appointment scheduling, RBAC, billing, scalable backend |
+| 🏢 **Admin Communication System** | Workflow approvals, audit tracking, internal communication |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&row=1&column=6" />
+</p>
 
 ---
 
 ## 🧠 Currently Working On
 
-- Scaling Laravel applications
-- Queue & caching optimization
-- Clean architecture patterns
-- API performance tuning
+- Scaling Laravel applications & microservices
+- Queue systems & caching optimization
+- Clean architecture & design patterns
+- API performance & security enhancements
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
-📧 ma7moudsaqr2001@gmail.com  
-🔗 LinkedIn:  
-https://linkedin.com/in/mahmoud-saqr-9b557038a
+<p align="center">
+  <img src="https://img.shields.io/badge/Email-ma7moudsaqr2001@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Saqr-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
 
 ---
 
 ## ⚡ Motto
-> Build systems that solve real business problems, not just code that works.
+
+> "Build systems that solve **real business problems**, not just code that works."
+
