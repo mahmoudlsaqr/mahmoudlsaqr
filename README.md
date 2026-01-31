@@ -132,13 +132,48 @@ Every system I build has:
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35" /> Tech Arsenal
 
-| Category | Technologies |
-|----------|-------------|
-| **Backend** | ![PHP](https://img.shields.io/badge/PHP%208+-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![RESTful API](https://img.shields.io/badge/REST%20API-009688?style=flat-square) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square) |
-| **Architecture** | ![SOLID](https://img.shields.io/badge/SOLID-0052CC?style=flat-square) ![Clean Code](https://img.shields.io/badge/Clean%20Code-00C7B7?style=flat-square) ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF6B6B?style=flat-square) |
+<p align="center">
+  <!-- Backend -->
+  <span>
+    <b>Backend:</b> 
+    <img src="https://img.shields.io/badge/PHP%208+-777BB4?style=flat-square&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square" />
+  </span>
+  <br><br>
+  <!-- Frontend -->
+  <span>
+    <b>Frontend:</b>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  </span>
+  <br><br>
+  <!-- Database -->
+  <span>
+    <b>Database:</b>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  </span>
+  <br><br>
+  <!-- DevOps -->
+  <span>
+    <b>DevOps:</b>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square" />
+  </span>
+  <br><br>
+  <!-- Architecture -->
+  <span>
+    <b>Architecture:</b>
+    <img src="https://img.shields.io/badge/SOLID-0052CC?style=flat-square" />
+    <img src="https://img.shields.io/badge/Clean%20Code-00C7B7?style=flat-square" />
+    <img src="https://img.shields.io/badge/Design%20Patterns-FF6B6B?style=flat-square" />
+  </span>
+</p>
 
 </div>
 
