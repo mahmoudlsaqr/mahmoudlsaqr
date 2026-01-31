@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
---
+<br>
 
 ## 🎨 About Me
 
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Contact-Email-532b88?style=for-the-badge&logoColor=white" />
 </p>
 
--
+<br>
 
 ## ⚡ Tech Stack & Tools
 
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Linux-341e6f?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
----
+<br>
 
 ## 🚀 Projects & Contributions
 
