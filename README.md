@@ -40,33 +40,46 @@
 
 <br>
 
-## 🚀 Projects & Contributions
+## 🚀 My Projects & Contributions
 
 <p align="center">
+  <!-- ZATCA E-Invoicing -->
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/ZATCA-E--Invoicing-blue?style=for-the-badge&logo=laravel&logoColor=white" alt="ZATCA E-Invoicing" />
+    <img src="https://img.shields.io/badge/ZATCA-E--Invoicing-blue?style=for-the-badge&logo=laravel&logoColor=white" alt="ZATCA Project" />
   </a>
+  <!-- Clinics Management -->
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Clinics-Management-green?style=for-the-badge&logo=mysql&logoColor=white" alt="Clinics Management" />
+    <img src="https://img.shields.io/badge/Clinics-Management-green?style=for-the-badge&logo=mysql&logoColor=white" alt="Clinics Project" />
   </a>
+  <!-- Admin Communication -->
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Admin-Communication-orange?style=for-the-badge&logo=slack&logoColor=white" alt="Admin Communication" />
+    <img src="https://img.shields.io/badge/Admin-Communication-orange?style=for-the-badge&logo=slack&logoColor=white" alt="Admin Project" />
   </a>
 </p>
 
 <p align="center">
-  🧾 <b>ZATCA E-Invoicing</b><br/>
-  Secure XML signing, API integration, Phase 1 & 2 compliance
-</p>
-
-<p align="center">
-  🏥 <b>Clinics Management Platform</b><br/>
-  Appointment scheduling, RBAC, billing & scalable backend
-</p>
-
-<p align="center">
-  🏢 <b>Administrative Communication System</b><br/>
-  Workflow approvals, audit tracking & internal communication
+  <table>
+    <tr>
+      <!-- ZATCA Card -->
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="150px" /><br/>
+        <b>🧾 ZATCA E-Invoicing</b><br/>
+        XML signing, secure API integration, Phase 1 & 2 compliance
+      </td>
+      <!-- Clinics Card -->
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="150px" /><br/>
+        <b>🏥 Clinics Management Platform</b><br/>
+        Appointment scheduling, RBAC, billing, scalable backend
+      </td>
+      <!-- Admin Card -->
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="150px" /><br/>
+        <b>🏢 Admin Communication System</b><br/>
+        Workflow approvals, audit tracking, internal communication
+      </td>
+    </tr>
+  </table>
 </p>
 
 <br>
