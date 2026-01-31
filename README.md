@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Laravel & Scalable APIs 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Laravel+&+APIs;ZATCA+Integration;Frontend+&+Backend;Performance+Optimization&center=true&width=700&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Laravel+Backend+Developer;API+Architecture+Specialist;ZATCA+Integration+Engineer;Building+Scalable+Systems;Performance+Optimization+Expert;Always+Learning+New+Tech&center=true&width=700&height=50">
 </p>
 
 ## 🧑‍💻 About Me
@@ -69,14 +69,6 @@ I blend <b>design sense</b> with <b>code mastery</b> to create elegant, high-per
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudlsaqr&theme=react-dark&area=true" />
-</p>
-
----
-
-## 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmoudlsaqr&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
