@@ -92,8 +92,6 @@ Every system I build has:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/221857984-5bf77e81-6f65-4502-a7c8-f29a978efb3f.png" alt="Rocket" width="35" /> Featured Projects
 
 <div align="center">
@@ -116,8 +114,6 @@ Every system I build has:
   <img src="https://img.shields.io/badge/View%20Project-bc4749?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
----
-
 ### 🏥 Clinics Management Platform
 <img src="https://img.shields.io/badge/Status-In%20Production-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -137,7 +133,6 @@ Every system I build has:
   <img src="https://img.shields.io/badge/View%20Project-bc4749?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
----
 
 ### 📋 Administrative Communication System
 <img src="https://img.shields.io/badge/Status-Enterprise%20Level-success?style=for-the-badge" />
