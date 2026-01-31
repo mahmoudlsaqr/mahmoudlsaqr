@@ -24,8 +24,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Al_Mansoura%2C_Dakahlia%2C_Egypt-ff9b54?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Experience-3%2B_Years-ff9b54?style=for-the-badge&logoColor=white" />
-    <a href="mailto:m.sqr.info@gmail.com" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-m.sqr.info@gmail.com-ff9b54?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:m.sqr.info@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-m.sqr.info@gmail.com-ff9b54?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
@@ -117,7 +117,7 @@
 
 <p align="center">
   <a href="mailto:m.sqr.info@gmail.com" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-m.sqr.info@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-m.sqr.info@gmail.com-red?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mahmoud-saqr-9b557038a" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Saqr-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
