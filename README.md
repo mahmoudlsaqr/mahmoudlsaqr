@@ -131,51 +131,44 @@ Every system I build has:
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35" /> Tech Arsenal
-<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
 
-  <!-- Backend -->
-  <span>
-    <b>Backend:</b>
-    <img src="https://img.shields.io/badge/PHP%208+-777BB4?style=flat-square&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-    <img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square" />
-  </span>
-
-  <!-- Frontend -->
-  <span>
-    <b>Frontend:</b>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  </span>
-
-  <!-- Database -->
-  <span>
-    <b>Database:</b>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  </span>
-
-  <!-- DevOps -->
-  <span>
-    <b>DevOps:</b>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square" />
-  </span>
-
-  <!-- Architecture -->
-  <span>
-    <b>Architecture:</b>
-    <img src="https://img.shields.io/badge/SOLID-0052CC?style=flat-square" />
-    <img src="https://img.shields.io/badge/Clean%20Code-00C7B7?style=flat-square" />
-    <img src="https://img.shields.io/badge/Design%20Patterns-FF6B6B?style=flat-square" />
-  </span>
-
-</p>
-
+<table width="100%" style="table-layout:fixed; text-align:center;">
+  <tr>
+    <th>Backend</th>
+    <th>Frontend</th>
+    <th>Database</th>
+    <th>DevOps</th>
+    <th>Architecture</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/PHP%208+-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/SOLID-0052CC?style=flat-square" />
+      <img src="https://img.shields.io/badge/Clean%20Code-00C7B7?style=flat-square" />
+      <img src="https://img.shields.io/badge/Design%20Patterns-FF6B6B?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
