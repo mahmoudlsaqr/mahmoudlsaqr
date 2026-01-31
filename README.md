@@ -117,11 +117,18 @@
 
 <p align="center">
   <a href="mailto:m.sqr.info@gmail.com" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-m.sqr.info@gmail.com-red?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-m.sqr.info@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mahmoud-saqr-9b557038a" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Saqr-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/mahmoudlsaqr/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Instagram-@mahmoudlsaqr-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/mahmoudlsaqr" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Facebook-MahmoudSaqr-1877f2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
+
 
 
