@@ -92,20 +92,12 @@
 | 🏢 Admin Communication System | Workflow approvals, audit tracking, internal communication | Laravel, PHP, MySQL, JS, AJAX, Bootstrap | [GitHub](https://github.com/mahmoudsaqr/admin-communication) |
 
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudsaqr&theme=react-dark&area=true" />
-<br>
-
 ## 🧠 Currently Working On
 
 - Scaling Laravel applications & microservices
 - Queue systems & caching optimization
 - Clean architecture & design patterns
 - API performance & security enhancements
-
 
 
 ## 📫 Contact Me
@@ -115,7 +107,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Saqr-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
-<
 
 ## ⚡ Motto
 
