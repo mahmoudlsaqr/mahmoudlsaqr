@@ -22,7 +22,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Al-Mansoura%2C_Egypt-532b88?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Al_Mansoura%2C_Egypt-532b88?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Experience-2%2B_Years-532b88?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Contact-Email-532b88?style=for-the-badge&logoColor=white" />
 </p>
