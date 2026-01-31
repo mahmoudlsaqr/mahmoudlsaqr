@@ -108,7 +108,7 @@
 <br>
 <br>
 
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />  Contact Me
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> Contact Me
 
 <p align="center">
   <a href="mailto:m.sqr.info@gmail.com" target="_blank" style="text-decoration:none;">
