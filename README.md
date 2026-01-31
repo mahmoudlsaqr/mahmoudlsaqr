@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Laravel+Backend+Developer;API+Architecture+Specialist;ZATCA+Integration+Engineer;Building+Scalable+Systems;Performance+Optimization+Expert;Always+Learning+New+Tech&center=true&width=700&height=50">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-</p>
-
-
 ## <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="35" /> About Me
 
 <p align="center">
