@@ -140,7 +140,6 @@ Every system I build has:
 | **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square) |
 | **Architecture** | ![SOLID](https://img.shields.io/badge/SOLID-0052CC?style=flat-square) ![Clean Code](https://img.shields.io/badge/Clean%20Code-00C7B7?style=flat-square) ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF6B6B?style=flat-square) |
 
-عايز الجدول بعرض الصفحة
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
