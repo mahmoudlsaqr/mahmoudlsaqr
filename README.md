@@ -36,6 +36,21 @@
   <img src="https://img.shields.io/badge/Redis-9a031e?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-30343f?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-341e6f?style=for-the-badge&logo=linux&logoColor=white" />
+
+  <!-- Frontend & JS -->
+  <img src="https://img.shields.io/badge/Ajax-007fff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769ad?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-ff5733?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-(ES6+)-f0db4f?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/CI/CD Pipelines-008080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Composer-8892be?style=for-the-badge&logo=composer&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-292929?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
 <br>
