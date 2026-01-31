@@ -70,7 +70,7 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Email-ma7moudsaqr2001@gmail.com-red?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-m.sqr.info@gmail.com-red?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Saqr-blue?style=for-the-badge&logoColor=white" />
 </p>
 
