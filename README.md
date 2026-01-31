@@ -10,7 +10,7 @@
 </p>
 
 
-## <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="30" /> About Me
+## <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="35" /> About Me
 
 <p align="center">
   I'm a 'Full-Stack Developer' with expertise in Laravel & scalable APIs and strong frontend skills.  
@@ -106,7 +106,7 @@
 - API performance & security enhancements
 
 
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Motto
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="35" /> Motto
 
 > "Build systems that solve **real business problems**, not just code that works."
 
