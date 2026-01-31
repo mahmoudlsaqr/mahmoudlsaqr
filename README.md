@@ -40,49 +40,13 @@
 
 <br>
 
-**## 🚀 My Projects
+## 🚀 Projects & Contributions
 
-<p align="center">
-
-<!-- ZATCA Project Card -->
-<a href="https://github.com/mahmoudsaqr/zatca-invoicing" target="_blank">
-  <img src="https://raw.githubusercontent.com/mahmoudsaqr/screenshots/main/zatca-dashboard.png" alt="ZATCA E-Invoicing" width="250px" style="border-radius:15px;"/>
-</a><br/>
-<b>🧾 ZATCA E-Invoicing</b><br/>
-XML signing, secure API integration, Phase 1 & 2 compliance<br/>
-<img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-
-</p>
-
-<p align="center">
-
-<!-- Clinics Management Card -->
-<a href="https://github.com/mahmoudsaqr/clinics-management" target="_blank">
-  <img src="https://raw.githubusercontent.com/mahmoudsaqr/screenshots/main/clinics-dashboard.png" alt="Clinics Management" width="250px" style="border-radius:15px;"/>
-</a><br/>
-<b>🏥 Clinics Management Platform</b><br/>
-Appointment scheduling, RBAC, billing, scalable backend<br/>
-<img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-
-</p>
-
-<p align="center">
-
-<!-- Admin Communication Card -->
-<a href="https://github.com/mahmoudsaqr/admin-communication" target="_blank">
-  <img src="https://raw.githubusercontent.com/mahmoudsaqr/screenshots/main/admin-dashboard.png" alt="Admin Communication System" width="250px" style="border-radius:15px;"/>
-</a><br/>
-<b>🏢 Administrative Communication System</b><br/>
-Workflow approvals, audit tracking, internal communication<br/>
-<img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-</p>**
+| Project | Description | Tech Stack | Link |
+|---------|-------------|-----------|------|
+| 🧾 ZATCA E-Invoicing | XML signing, secure API integration, Phase 1 & 2 compliance | Laravel, PHP, MySQL | [GitHub](https://github.com/mahmoudsaqr/zatca-invoicing) |
+| 🏥 Clinics Management Platform | Appointment scheduling, RBAC, billing, scalable backend | Laravel, MySQL, Redis | [GitHub](https://github.com/mahmoudsaqr/clinics-management) |
+| 🏢 Admin Communication System | Workflow approvals, audit tracking, internal communication | Laravel, PHP, JS | [GitHub](https://github.com/mahmoudsaqr/admin-communication) |
 
 <br>
 
