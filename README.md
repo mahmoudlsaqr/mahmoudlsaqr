@@ -31,6 +31,73 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<div align="right">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)](https://www.linkedin.com/in/sy-rashid/)
+  [![Medium Badge](https://img.shields.io/badge/-@syrashid-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com)
+  [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:sy@mangotree.dev)
+  [![Behance Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&label&logo=Behance&link=https://www.behance.net/syrashid)](https://www.behance.net/syrashid)
+</div>
+
+<hr>
+
+<p>
+My name is Sy Rashid, and I love to build stuff, usually with code. In school I spent time building nuclear reactor simulations, then built hard kombucha and wine brands with Anheuser-Busch, and now I work building art tech with ARTSVP. Coding has been an on and off love affair for me since high school, until I really understood the role software could play in creating a more equitable society. I just wrapped up at Georgia Tech (round 2) getting my Masters in Machine Learning because I believe in the field's outsized impact to create those opportunities. 
+</p>
+<p> 
+All said, I like building and designing well engineered software systems, eating any form of wrapped food (burritos, dürüm kebabs, wraps, sushi-rritos, gyros, etc), <a href="https://www.behance.net/syrashid">taking photos</a>, and trying to <a href="images/falling_with_style.GIF">jump out</a> of the nearest plane.
+</p>
+
+<hr>
+
+### 📘 How I'd Define Me... Literally
+
+ ```ruby
+ class Sy < Person
+   def initialize
+     @name = 'Sy Rashid'
+     @age = 34
+     @work = [ 'ARTSVP', 'MangoTree Dev' ]
+     @education = [ 'Georgia Tech MSCS', 'Le Wagon', 'HBX/HBS', 'Georgia Tech BSNRE' ]
+     @hobbies = [ 'Skydiving', 'Snowboarding', 'Burritos' ]
+   end
+
+   def languages
+     {
+       human: [ 'English', 'Bengali', 'Portuguese', 'Spanish' ],
+       programming: [ 'Ruby', 'Python', 'Javascript', 'SQL' ]
+      }
+   end
+
+   def current_location
+     'Lisbon, PT'
+   end
+
+   def next_locations
+     [ 'Zell am See, AT' ]
+   end
+
+   def currently
+     {
+       studying: [ 'Natural Language Processing', 'Deep Learning', 'Language of Proofs' ],
+       reading: [ 'The Moral Animal', 'Discrete Mathmatics and Its Applications' ],
+       tinkering: [ 'PR Stacking (Graphite)', 'Quant Trading', 'Frontside Shifty' ]
+      }
+   end
+ end
+ ```
+
+<hr>
+
+### 👾 Cool Stuff Everyone Should See
+-   <a href="https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.03923&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=true&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false">Peel Open</a> a Neural Network 🧠
+-  <a href="https://www.justtherecipe.com/">Just The Recipe</a> 🍋
+-  A Way to <a href="https://stephango.com/40-questions">Reflect On</a> the New Year 🎊
+
+<hr>
+
+### 🤠 My Cozy Corner of the Internet
+
 <h3>Where to find me</h3>
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
