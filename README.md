@@ -13,9 +13,9 @@
 ## 🎨 About Me
 
 <p align="center">
-  I'm a 'Full-Stack Developer' with 'expertise in Laravel & scalable APIs' and strong 'frontend skills'.  
-  I combine 'code mastery' with 'design intuition', crafting 'high-performance, robust, and elegant applications' from end-to-end.  
-  My passion lies in building **systems that are not only functional but also visually intuitive and user-friendly', solving 'real-world problems at scale'.
+  I'm a 'Full-Stack Developer' with expertise in Laravel & scalable APIs and strong frontend skills.  
+  I combine code mastery with design intuition, crafting high-performance, robust, and elegant applications from end-to-end.  
+  My passion lies in building systems that are not only functional but also visually intuitive and user-friendly, solving real-world problems at scale.
 </p>
 
 
