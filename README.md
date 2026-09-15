@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Mahmoud Saqr 👋</h1>
-<h3 align="center">Backend PHP Developer · Laravel Specialist</h3>
+<h3 align="center">Software Engineer · Backend Development</h3>
 
 <p align="center">
-I build backend systems that solve real business problems — tax-compliant e-invoicing, multi-branch platforms, and internal tools that hold up under real load. 2+ years shipping production Laravel systems, with a focus on clean architecture and measurable performance.
+I build backend systems that solve real business problems — from tax-compliant e-invoicing to multi-branch platforms. 2+ years shipping production systems with a focus on clean architecture and measurable performance.
 </p>
 
 <p align="center">
-📍 Cairo, Egypt &nbsp;|&nbsp; 💼 Available for freelance & full-time opportunities &nbsp;|&nbsp; 🌐 Arabic (Native) · English (Professional)
+📍 Cairo, Egypt &nbsp;|&nbsp; 💼 Open to new opportunities &nbsp;|&nbsp; 🌐 Arabic (Native) · English (Professional)
 </p>
 
 <p align="center">
@@ -14,18 +14,6 @@ I build backend systems that solve real business problems — tax-compliant e-in
 <a href="mailto:m.sqr.info@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/mahmoudlsaqr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-
----
-
-## 🚀 About Me
-
-Results-driven backend developer specializing in **Laravel** and **MySQL**, with a proven track record of building scalable APIs and high-performance backend systems for production clients — including a full **ZATCA E-Invoicing** integration (Phase 1 & 2) and a **40%+ performance improvement** across multiple live systems. Passionate about clean code, system architecture, and secure-by-default engineering.
-
-- 🔭 Currently building a **Dental Lab Management System** (multi-branch, RBAC, real-time inventory)
-- 🇸🇦 Led a full **ZATCA E-Invoicing** integration for a Saudi-based client — CSR generation, OpenSSL-signed XML, FATOORA portal submission, clearance/rejection webhooks
-- ⚡ Achieved a **40% performance boost** via MySQL indexing, Redis caching, and Laravel queues
-- 🏥 Architected a **multi-tenant clinics management platform** in active production use
-- 🧩 I treat security as a default, not a feature, and design for the load a system will carry next year — not just today
 
 ---
 
