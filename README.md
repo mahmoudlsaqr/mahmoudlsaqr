@@ -6,7 +6,7 @@ I build backend systems that solve real business problems — tax-compliant e-in
 
 `Available for freelance & full-time opportunities`
 
---
+---
 
 ### Stack
 
@@ -18,7 +18,7 @@ Practices      SOLID, Clean Architecture, Design Patterns, MVC
 Security       OAuth2, SSL, rate limiting, input validation
 ```
 
--
+---
 
 ### Highlights
 
@@ -27,7 +27,7 @@ Security       OAuth2, SSL, rate limiting, input validation
 - Built and maintain a **multi-branch clinics management platform** in active production use
 - Designed an **enterprise administrative communication system** used daily across departments
 
--
+---
 
 ### Projects
 
@@ -47,7 +47,7 @@ Enterprise-level internal communication and workflow tool. `Laravel` `AJAX`
 Order tracking and workflow management for dental labs. `Laravel` `MySQL` `Bootstrap` `AJAX`
 → [github.com/mahmoudlsaqr/dental-lab-management](https://github.com/mahmoudlsaqr/dental-lab-management)
 
--
+---
 
 ### How I Work
 
