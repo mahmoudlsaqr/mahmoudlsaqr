@@ -6,7 +6,7 @@ I build backend systems that solve real business problems — tax-compliant e-in
 
 `Available for freelance & full-time opportunities`
 
--
+--
 
 ### Stack
 
