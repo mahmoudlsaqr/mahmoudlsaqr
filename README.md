@@ -131,7 +131,6 @@ I use AI as a collaborator inside a disciplined workflow, not as an autopilot. N
 I'm available for freelance projects and full-time roles, especially Laravel backends, API development, and systems that need to be reliable in production. The fastest way to reach me is email.
 
 | | |
-|---|---|
 | **Email** | [m.sqr.info@gmail.com](mailto:m.sqr.info@gmail.com) |
 | **LinkedIn** | [mahmoud-saqr-9b557038a](https://www.linkedin.com/in/mahmoud-saqr-9b557038a) |
 | **GitHub** | [mahmoudlsaqr](https://github.com/mahmoudlsaqr) |
