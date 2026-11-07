@@ -127,8 +127,6 @@ I use AI as a collaborator inside a disciplined workflow, not as an autopilot. N
 [![GitHub streak][streak]](https://github.com/mahmoudlsaqr)
 
 | | |
-|:---:|:---:|
-| [![GitHub stats][stats]](https://github.com/mahmoudlsaqr) | [![Top languages][langs]](https://github.com/mahmoudlsaqr) |
 
 </div>
 
