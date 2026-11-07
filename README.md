@@ -123,14 +123,8 @@ I use AI as a collaborator inside a disciplined workflow, not as an autopilot. N
 ## GitHub activity
 
 <div align="center">
-
 [![GitHub streak][streak]](https://github.com/mahmoudlsaqr)
-
-| | |
-
 </div>
-
-<sub>Language figures reflect only the public code on GitHub, not overall experience.</sub>
 
 ## Contact
 
