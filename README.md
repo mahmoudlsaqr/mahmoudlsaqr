@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-saqr-9b557038a">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:m.sqr.info@gmail.com">m.sqr.info@gmail.com</a> &nbsp;·&nbsp;
+  <a href="mailto:saqr.info@icloud.com">saqr.info@icloud.com</a> &nbsp;·&nbsp;
   <a href="https://www.facebook.com/mahmoudlsaqr">Facebook</a>
 </p>
 
@@ -132,7 +132,7 @@ I'm available for freelance projects and full-time roles, especially Laravel bac
 
 | | |
 |---|---|
-| **Email** | [m.sqr.info@gmail.com](mailto:m.sqr.info@gmail.com) |
+| **Email** | [saqr.info@icloud.com](mailto:saqr.info@icloud.com) |
 | **LinkedIn** | [mahmoud-saqr-9b557038a](https://www.linkedin.com/in/mahmoud-saqr-9b557038a) |
 | **GitHub** | [mahmoudlsaqr](https://github.com/mahmoudlsaqr) |
 | **Facebook** | [mahmoudlsaqr](https://www.facebook.com/mahmoudlsaqr) |
